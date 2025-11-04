@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Un color gris muy claro */
+    margin: 20px;
+    padding: 20px;
+}
+p {
+    color: #333; /* Color de texto oscuro */
+}
